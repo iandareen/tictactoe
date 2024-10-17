@@ -1,0 +1,11 @@
+"features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {},
+    "ghcr.io/FuelLabs/devcontainer-features/fuelup:1.0.1": {},
+}
+"customizations": {
+    "vscode": {
+        "extensions": [
+            "fuellabs.sway-vscode-plugin"
+        ]
+    }
+}
